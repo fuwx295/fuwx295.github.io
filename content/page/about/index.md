@@ -61,7 +61,7 @@ I occasionally play Nintendo games.
 SwitchFriendNumber
 
 ```text
-SW-8324-023-5335
+SW-8324-0323-5335
 ```
 
 - Mobile
