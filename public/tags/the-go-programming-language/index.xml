@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>The-Go-Programming-Language on GreyWind</title>
-        <link>http://localhost:59025/tags/the-go-programming-language/</link>
+        <link>http://localhost:59770/tags/the-go-programming-language/</link>
         <description>Recent content in The-Go-Programming-Language on GreyWind</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>GreyWind</copyright>
-        <lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:59025/tags/the-go-programming-language/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:59770/tags/the-go-programming-language/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>The Go Programming Language 课后练习 Ch.2</title>
-        <link>http://localhost:59025/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.2/</link>
+        <link>http://localhost:59770/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.2/</link>
         <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.2/</guid>
-        <description>&lt;img src="http://localhost:59025/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.2/ab638d52-5f92-4e29-955e-064deb1c4728.jpeg" alt="Featured image of post The Go Programming Language 课后练习 Ch.2" /&gt;&lt;h2 id=&#34;前言&#34;&gt;前言
+        <guid>http://localhost:59770/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.2/</guid>
+        <description>&lt;img src="http://localhost:59770/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.2/ab638d52-5f92-4e29-955e-064deb1c4728.jpeg" alt="Featured image of post The Go Programming Language 课后练习 Ch.2" /&gt;&lt;h2 id=&#34;前言&#34;&gt;前言
 &lt;/h2&gt;&lt;p&gt;第二章为Program Structure（程序结构），通过7个部分的示例代码深入讨论Go程序基础结构方面的一些细节。第二章课后练习比较基础，了解Go语言程序结构即可完成。&lt;/p&gt;
 &lt;p&gt;本章所有示例代码链接 &lt;a class=&#34;link&#34; href=&#34;https://github.com/adonovan/gopl.io/tree/master/ch2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;ch2&lt;/a&gt; (有需自取，这里不做演示)&lt;/p&gt;
@@ -236,11 +236,11 @@
         </item>
         <item>
         <title>The Go Programming Language 课后练习 Ch.1</title>
-        <link>http://localhost:59025/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/</link>
+        <link>http://localhost:59770/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/</link>
         <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/</guid>
-        <description>&lt;img src="http://localhost:59025/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/ab638d52-5f92-4e29-955e-064deb1c4728.jpeg" alt="Featured image of post The Go Programming Language 课后练习 Ch.1" /&gt;&lt;h2 id=&#34;前言&#34;&gt;前言
+        <guid>http://localhost:59770/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/</guid>
+        <description>&lt;img src="http://localhost:59770/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/ab638d52-5f92-4e29-955e-064deb1c4728.jpeg" alt="Featured image of post The Go Programming Language 课后练习 Ch.1" /&gt;&lt;h2 id=&#34;前言&#34;&gt;前言
 &lt;/h2&gt;&lt;p&gt;第一章为Tutorial（教程），通过8个部分的示例代码带领读者熟悉Go语言的语法和规则。第一章课后练习比较基础，熟悉基本语法规则即可完成。&lt;/p&gt;
 &lt;p&gt;本章所有示例代码链接 &lt;a class=&#34;link&#34; href=&#34;https://github.com/adonovan/gopl.io/tree/master/ch1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Ch1&lt;/a&gt; (有需求自取，就不给出示例代码了。。。)&lt;/p&gt;
@@ -424,10 +424,10 @@
 &lt;p&gt;&lt;strong&gt;练习 1.6&lt;/strong&gt;： 修改Lissajous程序，修改其调色板来生成更丰富的颜色，然后修改SetColorIndex的第三个参数，看看显示结果吧。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;思路&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;palette&lt;/code&gt;数组为图形调色板，&lt;code&gt;SetColorIndex&lt;/code&gt;函数第三个参数对应调色板颜色的&lt;strong&gt;下标&lt;/strong&gt;。将七彩色放入调色板，每次运行后改变颜色即可得到&lt;code&gt;RGB&lt;/code&gt;GIF。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:59025/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/af5138fe-143e-4add-a186-e9b30a741534.gif&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:59770/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/af5138fe-143e-4add-a186-e9b30a741534.gif&#34;
 	width=&#34;201&#34;
 	height=&#34;201&#34;
-	srcset=&#34;http://localhost:59025/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/af5138fe-143e-4add-a186-e9b30a741534_hu_89d8ba13230cd307.gif 480w, http://localhost:59025/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/af5138fe-143e-4add-a186-e9b30a741534_hu_bfde8e21d5b56fc4.gif 1024w&#34;
+	srcset=&#34;http://localhost:59770/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/af5138fe-143e-4add-a186-e9b30a741534_hu_89d8ba13230cd307.gif 480w, http://localhost:59770/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/af5138fe-143e-4add-a186-e9b30a741534_hu_bfde8e21d5b56fc4.gif 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Lissajous&#34;

@@ -119,7 +119,7 @@ params:
 
         # Waline client configuration see: https://waline.js.org/en/reference/component.html
         waline:
-            serverURL: https://waline-bf8i7icb8-fuwx295s-projects.vercel.app/
+            serverURL: https://waline-drab-three.vercel.app/
             lang: zh-CN
             pageview: true
             emoji:

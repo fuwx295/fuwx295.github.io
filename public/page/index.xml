@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on GreyWind</title>
-        <link>http://localhost:59025/page/</link>
+        <link>http://localhost:59770/page/</link>
         <description>Recent content in Pages on GreyWind</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>GreyWind</copyright>
-        <lastBuildDate>Sun, 23 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:59025/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 23 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:59770/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>http://localhost:59025/about/</link>
+        <link>http://localhost:59770/about/</link>
         <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/about/</guid>
+        <guid>http://localhost:59770/about/</guid>
         <description>&lt;h2 id=&#34;who-am-i&#34;&gt;Who am I?
 &lt;/h2&gt;&lt;p&gt;A Programmer.&lt;/p&gt;
 &lt;p&gt;Working on Observability.&lt;/p&gt;
@@ -86,18 +86,18 @@
         </item>
         <item>
         <title>Archives</title>
-        <link>http://localhost:59025/archives/</link>
+        <link>http://localhost:59770/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/archives/</guid>
+        <guid>http://localhost:59770/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>http://localhost:59025/links/</link>
+        <link>http://localhost:59770/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/links/</guid>
+        <guid>http://localhost:59770/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -129,10 +129,10 @@
         </item>
         <item>
         <title>Search</title>
-        <link>http://localhost:59025/search/</link>
+        <link>http://localhost:59770/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/search/</guid>
+        <guid>http://localhost:59770/search/</guid>
         <description></description>
         </item>
         

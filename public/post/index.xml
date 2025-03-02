@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on GreyWind</title>
-        <link>http://localhost:59025/post/</link>
+        <link>http://localhost:59770/post/</link>
         <description>Recent content in Posts on GreyWind</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>GreyWind</copyright>
-        <lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:59025/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:59770/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>The BSD Packet Filter (BPF) Paper</title>
-        <link>http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/</link>
+        <link>http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/</link>
         <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/</guid>
+        <guid>http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/</guid>
         <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.tcpdump.org/papers/bpf-usenix93.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;The BSD Packet Filter: A New Architecture for User-level Packet Capture&lt;/a&gt; Paper is published by UCB in Winter USENIX 1992.&lt;/p&gt;
 &lt;p&gt;The BPF as known as BSD Packet Filter. It provides a raw interface to data link layers, permitting raw link-layer packets to be send and received, and allow a &lt;code&gt;user-space&lt;/code&gt; process to supply a filter program that specifies which packets it wants to receive. For example &lt;code&gt;TCPDUMP&lt;/code&gt;, which directly filters incoming packets in the kernel based on &lt;code&gt;user-space&lt;/code&gt; rules.&lt;/p&gt;
 &lt;h2 id=&#34;architecture&#34;&gt;Architecture
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_overview.png&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_overview.png&#34;
 	width=&#34;787&#34;
 	height=&#34;687&#34;
-	srcset=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_overview_hu_ea13228318372a7e.png 480w, http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_overview_hu_393922de5ef4c41a.png 1024w&#34;
+	srcset=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_overview_hu_ea13228318372a7e.png 480w, http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_overview_hu_393922de5ef4c41a.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;bpf_overview&#34;
@@ -54,10 +54,10 @@
 &lt;/ol&gt;
 &lt;h2 id=&#34;performance&#34;&gt;Performance
 &lt;/h2&gt;&lt;p&gt;The performance of BPF and NIT (another packet filter) is compared for two extreme cases, in which all packets are received and all packets are rejected.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_exp1.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_exp1.png&#34;
 	width=&#34;930&#34;
 	height=&#34;651&#34;
-	srcset=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_exp1_hu_f177383e8e544ddb.png 480w, http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_exp1_hu_bb8b31f0d5b00673.png 1024w&#34;
+	srcset=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_exp1_hu_f177383e8e544ddb.png 480w, http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_exp1_hu_bb8b31f0d5b00673.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;bpf_exp1&#34;
@@ -68,10 +68,10 @@
 		data-flex-basis=&#34;342px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_exp2.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_exp2.png&#34;
 	width=&#34;909&#34;
 	height=&#34;648&#34;
-	srcset=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_exp2_hu_bae2ffa0af43052b.png 480w, http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_exp2_hu_1a141d2a1e78c210.png 1024w&#34;
+	srcset=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_exp2_hu_bae2ffa0af43052b.png 480w, http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_exp2_hu_1a141d2a1e78c210.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;bpf_exp2&#34;
@@ -96,10 +96,10 @@
 &lt;p&gt;In network monitoring, more information is generally discarded than is needed, so the BPF performance advantage is huge.&lt;/p&gt;
 &lt;h2 id=&#34;why-bpf-faster&#34;&gt;Why BPF faster?
 &lt;/h2&gt;&lt;p&gt;A filter is like an assertion, either true or false, about whether the package is needed filter.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_tree.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_tree.png&#34;
 	width=&#34;738&#34;
 	height=&#34;280&#34;
-	srcset=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_tree_hu_51913544bd75093b.png 480w, http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_tree_hu_954cea58089509ae.png 1024w&#34;
+	srcset=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_tree_hu_51913544bd75093b.png 480w, http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_tree_hu_954cea58089509ae.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;bpf_tree&#34;
@@ -121,10 +121,10 @@
 &lt;p&gt;Secondly, the reception is also to &lt;strong&gt;receive a whole packet, without considering that there will be a lot of unwanted data&lt;/strong&gt;, which is obviously less efficient than BPF.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_cfg.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_cfg.png&#34;
 	width=&#34;424&#34;
 	height=&#34;438&#34;
-	srcset=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_cfg_hu_19d822c3b947193e.png 480w, http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_cfg_hu_57ec0f535e9246c4.png 1024w&#34;
+	srcset=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_cfg_hu_19d822c3b947193e.png 480w, http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_cfg_hu_57ec0f535e9246c4.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;bpf_cfg&#34;
@@ -137,10 +137,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;BPF uses a CFG (Control Flow Graph), which is a DAG (Directed Acyclic Graph).The left branch indicates that the node is false and the right branch indicates that the node is true. &lt;strong&gt;this structure makes more use of registers, which is also a reason for being faster.&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;bpf-vm&#34;&gt;BPF VM
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_op.png&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_op.png&#34;
 	width=&#34;235&#34;
 	height=&#34;83&#34;
-	srcset=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_op_hu_62f35737b5c5207d.png 480w, http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_op_hu_6d4775b6b389858c.png 1024w&#34;
+	srcset=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_op_hu_62f35737b5c5207d.png 480w, http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_op_hu_6d4775b6b389858c.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;bpf_op&#34;
@@ -151,10 +151,10 @@
 		data-flex-basis=&#34;679px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_instruct.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_instruct.png&#34;
 	width=&#34;409&#34;
 	height=&#34;558&#34;
-	srcset=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_instruct_hu_1a864be5ed373bf4.png 480w, http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_instruct_hu_68b9b0f586874769.png 1024w&#34;
+	srcset=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_instruct_hu_1a864be5ed373bf4.png 480w, http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_instruct_hu_68b9b0f586874769.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;bpf_instruct&#34;
@@ -165,10 +165,10 @@
 		data-flex-basis=&#34;175px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_address.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_address.png&#34;
 	width=&#34;452&#34;
 	height=&#34;386&#34;
-	srcset=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_address_hu_f7dc99655b9bfd44.png 480w, http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_address_hu_ffa66c333a0fd333.png 1024w&#34;
+	srcset=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_address_hu_f7dc99655b9bfd44.png 480w, http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_address_hu_ffa66c333a0fd333.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;bpf_addressing_modes&#34;
@@ -182,10 +182,10 @@
 &lt;p&gt;In order to realize the above functions, BPF has &lt;strong&gt;designed a virtual machine in the kernel&lt;/strong&gt;, which uses mostly binary, single-address arithmetic.&lt;/p&gt;
 &lt;p&gt;It also defines a series of 32-bit arithmetic instructions as follows, but they are implemented as macros, and in the paper they are in assembly form for ease of reading.&lt;/p&gt;
 &lt;p&gt;Notice that a lot of the addressing operations are relative to packages, since this virtual machine is used to analyze packages.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_cmd.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_cmd.png&#34;
 	width=&#34;191&#34;
 	height=&#34;160&#34;
-	srcset=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_cmd_hu_43a3c8d98cae500b.png 480w, http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_cmd_hu_29c5db2b9da4970.png 1024w&#34;
+	srcset=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_cmd_hu_43a3c8d98cae500b.png 480w, http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_cmd_hu_29c5db2b9da4970.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;bpf_cmd&#34;
@@ -201,11 +201,11 @@
         </item>
         <item>
         <title>Development Environment (Utlra)</title>
-        <link>http://localhost:59025/p/development-environment-utlra/</link>
+        <link>http://localhost:59770/p/development-environment-utlra/</link>
         <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/development-environment-utlra/</guid>
-        <description>&lt;img src="http://localhost:59025/p/development-environment-utlra/dev.webp" alt="Featured image of post Development Environment (Utlra)" /&gt;&lt;h2 id=&#34;font&#34;&gt;Font
+        <guid>http://localhost:59770/p/development-environment-utlra/</guid>
+        <description>&lt;img src="http://localhost:59770/p/development-environment-utlra/dev.webp" alt="Featured image of post Development Environment (Utlra)" /&gt;&lt;h2 id=&#34;font&#34;&gt;Font
 &lt;/h2&gt;&lt;h3 id=&#34;fira-code&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/tonsky/FiraCode&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;fira code&lt;/a&gt;
 &lt;/h3&gt;&lt;p&gt;free monospaced font with programming ligatures&lt;/p&gt;
@@ -370,11 +370,11 @@ With over 1 million users, Lens is the most popular &lt;strong&gt;Kubernetes IDE
         </item>
         <item>
         <title>Quickly locate program memory leaks</title>
-        <link>http://localhost:59025/p/quickly-locate-program-memory-leaks/</link>
+        <link>http://localhost:59770/p/quickly-locate-program-memory-leaks/</link>
         <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/quickly-locate-program-memory-leaks/</guid>
-        <description>&lt;img src="http://localhost:59025/p/quickly-locate-program-memory-leaks/mem-leak.png" alt="Featured image of post Quickly locate program memory leaks" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>http://localhost:59770/p/quickly-locate-program-memory-leaks/</guid>
+        <description>&lt;img src="http://localhost:59770/p/quickly-locate-program-memory-leaks/mem-leak.png" alt="Featured image of post Quickly locate program memory leaks" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Memory leaks&lt;/strong&gt; have always been a bit of a nuisance in production environments. Unlike memory leaks where memory grows quickly, memory leaks where memory rises slowly are more troublesome. Therefore, program memory needs to be observed.&lt;/p&gt;
 &lt;h2 id=&#34;tools&#34;&gt;Tools
 &lt;/h2&gt;&lt;p&gt;Use different tools for analyzing different languages.&lt;/p&gt;
@@ -1302,11 +1302,11 @@ With over 1 million users, Lens is the most popular &lt;strong&gt;Kubernetes IDE
         </item>
         <item>
         <title>Development Environment (Basic)</title>
-        <link>http://localhost:59025/p/development-environment-basic/</link>
+        <link>http://localhost:59770/p/development-environment-basic/</link>
         <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/development-environment-basic/</guid>
-        <description>&lt;img src="http://localhost:59025/p/development-environment-basic/dev.webp" alt="Featured image of post Development Environment (Basic)" /&gt;&lt;p&gt;&lt;strong&gt;Support Platform: Ubuntu 22.04 &amp;amp; Mac Sonoma 14&lt;/strong&gt;&lt;/p&gt;
+        <guid>http://localhost:59770/p/development-environment-basic/</guid>
+        <description>&lt;img src="http://localhost:59770/p/development-environment-basic/dev.webp" alt="Featured image of post Development Environment (Basic)" /&gt;&lt;p&gt;&lt;strong&gt;Support Platform: Ubuntu 22.04 &amp;amp; Mac Sonoma 14&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Give the system description only on that platform, otherwise both are possible&lt;/li&gt;
 &lt;/ul&gt;
@@ -1614,11 +1614,11 @@ With over 1 million users, Lens is the most popular &lt;strong&gt;Kubernetes IDE
         </item>
         <item>
         <title>Good Resource of Cloud Native</title>
-        <link>http://localhost:59025/p/good-resource-of-cloud-native/</link>
+        <link>http://localhost:59770/p/good-resource-of-cloud-native/</link>
         <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/good-resource-of-cloud-native/</guid>
-        <description>&lt;img src="http://localhost:59025/p/good-resource-of-cloud-native/cloud-native.webp" alt="Featured image of post Good Resource of Cloud Native" /&gt;&lt;h2 id=&#34;devops&#34;&gt;DevOps
+        <guid>http://localhost:59770/p/good-resource-of-cloud-native/</guid>
+        <description>&lt;img src="http://localhost:59770/p/good-resource-of-cloud-native/cloud-native.webp" alt="Featured image of post Good Resource of Cloud Native" /&gt;&lt;h2 id=&#34;devops&#34;&gt;DevOps
 &lt;/h2&gt;&lt;h3 id=&#34;docker&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.docker.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Docker&lt;/a&gt;
 &lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/orbstack/orbstack&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -1657,10 +1657,10 @@ With over 1 million users, Lens is the most popular &lt;strong&gt;Kubernetes IDE
         </item>
         <item>
         <title>Lab 4: Sharded Key/Value Service</title>
-        <link>http://localhost:59025/p/lab-4-sharded-key/value-service/</link>
+        <link>http://localhost:59770/p/lab-4-sharded-key/value-service/</link>
         <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/lab-4-sharded-key/value-service/</guid>
+        <guid>http://localhost:59770/p/lab-4-sharded-key/value-service/</guid>
         <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;In lab 4, we will build a key/value storage system that &amp;ldquo;shards&amp;rdquo;, or partitions, the keys over a set of replica groups.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -3066,10 +3066,10 @@ With over 1 million users, Lens is the most popular &lt;strong&gt;Kubernetes IDE
         </item>
         <item>
         <title>PA 1: simple computer</title>
-        <link>http://localhost:59025/p/pa-1-simple-computer/</link>
+        <link>http://localhost:59770/p/pa-1-simple-computer/</link>
         <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/pa-1-simple-computer/</guid>
+        <guid>http://localhost:59770/p/pa-1-simple-computer/</guid>
         <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;In lab 1, we will implement a simple debugger. There are three main tasks.&lt;/p&gt;
 &lt;p&gt;Task 1, Implement single-step execution, Print register status, Scan memory.&lt;/p&gt;
@@ -3774,10 +3774,10 @@ With over 1 million users, Lens is the most popular &lt;strong&gt;Kubernetes IDE
         </item>
         <item>
         <title>Lab 3: Fault-tolerant Key/Value Service</title>
-        <link>http://localhost:59025/p/lab-3-fault-tolerant-key/value-service/</link>
+        <link>http://localhost:59770/p/lab-3-fault-tolerant-key/value-service/</link>
         <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/lab-3-fault-tolerant-key/value-service/</guid>
+        <guid>http://localhost:59770/p/lab-3-fault-tolerant-key/value-service/</guid>
         <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;In lab3 we will build a fault-tolerant key/value storage service using your &lt;strong&gt;Raft library&lt;/strong&gt; from Lab2. This service will be a replicated state machine, consisting of several key/value servers that use Raft for replication. This lab has two parts. In 3A, we will implement a key/value service using Raft, but without using snapshots. In 3B, we will use a snapshot from Lab2D, which allows Raft to discard old log entries.&lt;/p&gt;
 &lt;p&gt;Before starting the lab, you should review the extended &lt;em&gt;&lt;strong&gt;Raft paper&lt;/strong&gt;&lt;/em&gt;, in particular Sections 7 and 8.&lt;/p&gt;
@@ -4321,10 +4321,10 @@ With over 1 million users, Lens is the most popular &lt;strong&gt;Kubernetes IDE
         </item>
         <item>
         <title>Lab 2: Raft</title>
-        <link>http://localhost:59025/p/lab-2-raft/</link>
+        <link>http://localhost:59770/p/lab-2-raft/</link>
         <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/lab-2-raft/</guid>
+        <guid>http://localhost:59770/p/lab-2-raft/</guid>
         <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;In lab2 we will implement Raft, a replicated state machine protocol. This lab is divided into four parts, 2A should finish the leader election, 2B must make sure to sync the log between each server, 2C will persist in every server state and 2D take log compaction to reduce logs.&lt;/p&gt;
 &lt;p&gt;After finishing lab1, we became familiar with Golang, but the concurrency programming is still hard. There are many details to pay attention to Raft, so read the Raft Paper carefully and repeatedly.&lt;/p&gt;
@@ -5630,11 +5630,11 @@ With over 1 million users, Lens is the most popular &lt;strong&gt;Kubernetes IDE
         </item>
         <item>
         <title>Raft Paper</title>
-        <link>http://localhost:59025/p/raft-paper/</link>
+        <link>http://localhost:59770/p/raft-paper/</link>
         <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/raft-paper/</guid>
-        <description>&lt;img src="http://localhost:59025/p/raft-paper/4edbcd64-afa3-4eff-8d34-2624bf875149.webp" alt="Featured image of post Raft Paper" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>http://localhost:59770/p/raft-paper/</guid>
+        <description>&lt;img src="http://localhost:59770/p/raft-paper/4edbcd64-afa3-4eff-8d34-2624bf875149.webp" alt="Featured image of post Raft Paper" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;Raft is a consensus algorithm for managing a replicated log. Consensus algorithms allow a collection of machines to work as a coherent group that can survive the failures of some of its members. Although Paxos can solve consensus, it is indigestible for most people. Raft enhance understandability and also provides a better foundation for building practical system.&lt;/p&gt;
 &lt;p&gt;This paper called &lt;a class=&#34;link&#34; href=&#34;https://raft.github.io/raft.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;In Search of an Understandable Consensus Algorithm(Extended Version)&lt;/a&gt; was published in 2014 by Stanford University. This paper is very in-depth, I recommend reading it several times.&lt;/p&gt;
@@ -6005,10 +6005,10 @@ With over 1 million users, Lens is the most popular &lt;strong&gt;Kubernetes IDE
         </item>
         <item>
         <title>Lab 1: MapReduce</title>
-        <link>http://localhost:59025/p/lab-1-mapreduce/</link>
+        <link>http://localhost:59770/p/lab-1-mapreduce/</link>
         <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/lab-1-mapreduce/</guid>
+        <guid>http://localhost:59770/p/lab-1-mapreduce/</guid>
         <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;In lab 1 we will build a MapReduce system. Two main parts are implemented, one is a worker process that calls &lt;code&gt;Map&lt;/code&gt; and &lt;code&gt;Reduce&lt;/code&gt; functions and handles reading and writing files, and the other is a coordinator process that hands out tasks to workers and copes with failed workers.&lt;/p&gt;
 &lt;p&gt;Before you start the lab, must be familiar with &lt;code&gt;Golang concurrency programming&lt;/code&gt; and &lt;code&gt;RPC&lt;/code&gt;. Understanding the MapReduce paper is also essential.&lt;/p&gt;
@@ -6372,10 +6372,10 @@ With over 1 million users, Lens is the most popular &lt;strong&gt;Kubernetes IDE
         </item>
         <item>
         <title>MapReduce Paper</title>
-        <link>http://localhost:59025/p/mapreduce-paper/</link>
+        <link>http://localhost:59770/p/mapreduce-paper/</link>
         <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/mapreduce-paper/</guid>
+        <guid>http://localhost:59770/p/mapreduce-paper/</guid>
         <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;MapReduce is a programming model mentioned by Google. It runs on a distributed system (like a cluster of commodity machines) and is highly scalable. In addition to the system, there is parallel computing of large-scale data sets.&lt;/p&gt;
 &lt;p&gt;This paper called &lt;a class=&#34;link&#34; href=&#34;https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -6426,10 +6426,10 @@ With over 1 million users, Lens is the most popular &lt;strong&gt;Kubernetes IDE
 &lt;/div&gt;&lt;h2 id=&#34;implementation&#34;&gt;Implementation
 &lt;/h2&gt;&lt;p&gt;The issue of how to make distributed system may face many difficulties, such as parallelising the computation, distributing the data, and handling failures. Using the MapReduce model we can simplify it and implement it in a variety of ways.&lt;/p&gt;
 &lt;h3 id=&#34;execution-overview&#34;&gt;Execution Overview
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:59025/p/mapreduce-paper/3f37c1e8-8ec3-473a-93c4-e4424a06865d.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:59770/p/mapreduce-paper/3f37c1e8-8ec3-473a-93c4-e4424a06865d.png&#34;
 	width=&#34;1386&#34;
 	height=&#34;766&#34;
-	srcset=&#34;http://localhost:59025/p/mapreduce-paper/3f37c1e8-8ec3-473a-93c4-e4424a06865d_hu_18b54cdd00b7389b.png 480w, http://localhost:59025/p/mapreduce-paper/3f37c1e8-8ec3-473a-93c4-e4424a06865d_hu_49e39995847f781c.png 1024w&#34;
+	srcset=&#34;http://localhost:59770/p/mapreduce-paper/3f37c1e8-8ec3-473a-93c4-e4424a06865d_hu_18b54cdd00b7389b.png 480w, http://localhost:59770/p/mapreduce-paper/3f37c1e8-8ec3-473a-93c4-e4424a06865d_hu_49e39995847f781c.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;MapReduce&#34;
@@ -6480,11 +6480,11 @@ With over 1 million users, Lens is the most popular &lt;strong&gt;Kubernetes IDE
         </item>
         <item>
         <title>Necessary skills of IELTS (READING)</title>
-        <link>http://localhost:59025/p/necessary-skills-of-ielts-reading/</link>
+        <link>http://localhost:59770/p/necessary-skills-of-ielts-reading/</link>
         <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/necessary-skills-of-ielts-reading/</guid>
-        <description>&lt;img src="http://localhost:59025/p/necessary-skills-of-ielts-reading/382f0a22-149c-4983-8de0-6495bea6fc88.jpeg" alt="Featured image of post Necessary skills of IELTS (READING)" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>http://localhost:59770/p/necessary-skills-of-ielts-reading/</guid>
+        <description>&lt;img src="http://localhost:59770/p/necessary-skills-of-ielts-reading/382f0a22-149c-4983-8de0-6495bea6fc88.jpeg" alt="Featured image of post Necessary skills of IELTS (READING)" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;Not like CET-4 or CET-6, IELTS reading required efficiency. So you needn&amp;rsquo;t read the full text. Another feature is that the difficulty of IELTS reading is not increasing, which means you can&amp;rsquo;t finish the task in order. &lt;strong&gt;Look at the title first, then look at the question, and choose the easy one to finish.&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;true--false-not-given&#34;&gt;TRUE &amp;amp; FALSE, NOT GIVEN
 &lt;/h2&gt;&lt;p&gt;Before starting the exercise, we should know two keys in IELTS reading: positing words and pointing words. (定位词和考点词)&lt;/p&gt;
@@ -6995,11 +6995,11 @@ With over 1 million users, Lens is the most popular &lt;strong&gt;Kubernetes IDE
         </item>
         <item>
         <title>Necessary skills of IELTS (LISTENING)</title>
-        <link>http://localhost:59025/p/necessary-skills-of-ielts-listening/</link>
+        <link>http://localhost:59770/p/necessary-skills-of-ielts-listening/</link>
         <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/necessary-skills-of-ielts-listening/</guid>
-        <description>&lt;img src="http://localhost:59025/p/necessary-skills-of-ielts-listening/382f0a22-149c-4983-8de0-6495bea6fc88.jpeg" alt="Featured image of post Necessary skills of IELTS (LISTENING)" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>http://localhost:59770/p/necessary-skills-of-ielts-listening/</guid>
+        <description>&lt;img src="http://localhost:59770/p/necessary-skills-of-ielts-listening/382f0a22-149c-4983-8de0-6495bea6fc88.jpeg" alt="Featured image of post Necessary skills of IELTS (LISTENING)" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;As monolinguals, we face a lot of difficulties in IELTS.&lt;/p&gt;
 &lt;p&gt;English is not solid （基础差）&lt;/p&gt;
 &lt;p&gt;Not familiar with IELTS （不懂考点）&lt;/p&gt;
@@ -7239,11 +7239,11 @@ Difficulties in Listening&lt;/p&gt;
         </item>
         <item>
         <title>The Go Programming Language 课后练习 Ch.2</title>
-        <link>http://localhost:59025/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.2/</link>
+        <link>http://localhost:59770/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.2/</link>
         <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.2/</guid>
-        <description>&lt;img src="http://localhost:59025/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.2/ab638d52-5f92-4e29-955e-064deb1c4728.jpeg" alt="Featured image of post The Go Programming Language 课后练习 Ch.2" /&gt;&lt;h2 id=&#34;前言&#34;&gt;前言
+        <guid>http://localhost:59770/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.2/</guid>
+        <description>&lt;img src="http://localhost:59770/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.2/ab638d52-5f92-4e29-955e-064deb1c4728.jpeg" alt="Featured image of post The Go Programming Language 课后练习 Ch.2" /&gt;&lt;h2 id=&#34;前言&#34;&gt;前言
 &lt;/h2&gt;&lt;p&gt;第二章为Program Structure（程序结构），通过7个部分的示例代码深入讨论Go程序基础结构方面的一些细节。第二章课后练习比较基础，了解Go语言程序结构即可完成。&lt;/p&gt;
 &lt;p&gt;本章所有示例代码链接 &lt;a class=&#34;link&#34; href=&#34;https://github.com/adonovan/gopl.io/tree/master/ch2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;ch2&lt;/a&gt; (有需自取，这里不做演示)&lt;/p&gt;
@@ -7466,11 +7466,11 @@ Difficulties in Listening&lt;/p&gt;
         </item>
         <item>
         <title>The Go Programming Language 课后练习 Ch.1</title>
-        <link>http://localhost:59025/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/</link>
+        <link>http://localhost:59770/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/</link>
         <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/</guid>
-        <description>&lt;img src="http://localhost:59025/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/ab638d52-5f92-4e29-955e-064deb1c4728.jpeg" alt="Featured image of post The Go Programming Language 课后练习 Ch.1" /&gt;&lt;h2 id=&#34;前言&#34;&gt;前言
+        <guid>http://localhost:59770/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/</guid>
+        <description>&lt;img src="http://localhost:59770/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/ab638d52-5f92-4e29-955e-064deb1c4728.jpeg" alt="Featured image of post The Go Programming Language 课后练习 Ch.1" /&gt;&lt;h2 id=&#34;前言&#34;&gt;前言
 &lt;/h2&gt;&lt;p&gt;第一章为Tutorial（教程），通过8个部分的示例代码带领读者熟悉Go语言的语法和规则。第一章课后练习比较基础，熟悉基本语法规则即可完成。&lt;/p&gt;
 &lt;p&gt;本章所有示例代码链接 &lt;a class=&#34;link&#34; href=&#34;https://github.com/adonovan/gopl.io/tree/master/ch1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Ch1&lt;/a&gt; (有需求自取，就不给出示例代码了。。。)&lt;/p&gt;
@@ -7654,10 +7654,10 @@ Difficulties in Listening&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;练习 1.6&lt;/strong&gt;： 修改Lissajous程序，修改其调色板来生成更丰富的颜色，然后修改SetColorIndex的第三个参数，看看显示结果吧。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;思路&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;palette&lt;/code&gt;数组为图形调色板，&lt;code&gt;SetColorIndex&lt;/code&gt;函数第三个参数对应调色板颜色的&lt;strong&gt;下标&lt;/strong&gt;。将七彩色放入调色板，每次运行后改变颜色即可得到&lt;code&gt;RGB&lt;/code&gt;GIF。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:59025/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/af5138fe-143e-4add-a186-e9b30a741534.gif&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:59770/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/af5138fe-143e-4add-a186-e9b30a741534.gif&#34;
 	width=&#34;201&#34;
 	height=&#34;201&#34;
-	srcset=&#34;http://localhost:59025/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/af5138fe-143e-4add-a186-e9b30a741534_hu_89d8ba13230cd307.gif 480w, http://localhost:59025/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/af5138fe-143e-4add-a186-e9b30a741534_hu_bfde8e21d5b56fc4.gif 1024w&#34;
+	srcset=&#34;http://localhost:59770/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/af5138fe-143e-4add-a186-e9b30a741534_hu_89d8ba13230cd307.gif 480w, http://localhost:59770/p/the-go-programming-language-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-ch.1/af5138fe-143e-4add-a186-e9b30a741534_hu_bfde8e21d5b56fc4.gif 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Lissajous&#34;

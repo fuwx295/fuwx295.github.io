@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>MIT-6.824 on GreyWind</title>
-        <link>http://localhost:59025/tags/mit-6.824/</link>
+        <link>http://localhost:59770/tags/mit-6.824/</link>
         <description>Recent content in MIT-6.824 on GreyWind</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>GreyWind</copyright>
-        <lastBuildDate>Sat, 07 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:59025/tags/mit-6.824/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 07 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:59770/tags/mit-6.824/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Lab 4: Sharded Key/Value Service</title>
-        <link>http://localhost:59025/p/lab-4-sharded-key/value-service/</link>
+        <link>http://localhost:59770/p/lab-4-sharded-key/value-service/</link>
         <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/lab-4-sharded-key/value-service/</guid>
+        <guid>http://localhost:59770/p/lab-4-sharded-key/value-service/</guid>
         <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;In lab 4, we will build a key/value storage system that &amp;ldquo;shards&amp;rdquo;, or partitions, the keys over a set of replica groups.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1418,10 +1418,10 @@
         </item>
         <item>
         <title>Lab 3: Fault-tolerant Key/Value Service</title>
-        <link>http://localhost:59025/p/lab-3-fault-tolerant-key/value-service/</link>
+        <link>http://localhost:59770/p/lab-3-fault-tolerant-key/value-service/</link>
         <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/lab-3-fault-tolerant-key/value-service/</guid>
+        <guid>http://localhost:59770/p/lab-3-fault-tolerant-key/value-service/</guid>
         <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;In lab3 we will build a fault-tolerant key/value storage service using your &lt;strong&gt;Raft library&lt;/strong&gt; from Lab2. This service will be a replicated state machine, consisting of several key/value servers that use Raft for replication. This lab has two parts. In 3A, we will implement a key/value service using Raft, but without using snapshots. In 3B, we will use a snapshot from Lab2D, which allows Raft to discard old log entries.&lt;/p&gt;
 &lt;p&gt;Before starting the lab, you should review the extended &lt;em&gt;&lt;strong&gt;Raft paper&lt;/strong&gt;&lt;/em&gt;, in particular Sections 7 and 8.&lt;/p&gt;
@@ -1965,10 +1965,10 @@
         </item>
         <item>
         <title>Lab 2: Raft</title>
-        <link>http://localhost:59025/p/lab-2-raft/</link>
+        <link>http://localhost:59770/p/lab-2-raft/</link>
         <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/lab-2-raft/</guid>
+        <guid>http://localhost:59770/p/lab-2-raft/</guid>
         <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;In lab2 we will implement Raft, a replicated state machine protocol. This lab is divided into four parts, 2A should finish the leader election, 2B must make sure to sync the log between each server, 2C will persist in every server state and 2D take log compaction to reduce logs.&lt;/p&gt;
 &lt;p&gt;After finishing lab1, we became familiar with Golang, but the concurrency programming is still hard. There are many details to pay attention to Raft, so read the Raft Paper carefully and repeatedly.&lt;/p&gt;
@@ -3274,11 +3274,11 @@
         </item>
         <item>
         <title>Raft Paper</title>
-        <link>http://localhost:59025/p/raft-paper/</link>
+        <link>http://localhost:59770/p/raft-paper/</link>
         <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/raft-paper/</guid>
-        <description>&lt;img src="http://localhost:59025/p/raft-paper/4edbcd64-afa3-4eff-8d34-2624bf875149.webp" alt="Featured image of post Raft Paper" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>http://localhost:59770/p/raft-paper/</guid>
+        <description>&lt;img src="http://localhost:59770/p/raft-paper/4edbcd64-afa3-4eff-8d34-2624bf875149.webp" alt="Featured image of post Raft Paper" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;Raft is a consensus algorithm for managing a replicated log. Consensus algorithms allow a collection of machines to work as a coherent group that can survive the failures of some of its members. Although Paxos can solve consensus, it is indigestible for most people. Raft enhance understandability and also provides a better foundation for building practical system.&lt;/p&gt;
 &lt;p&gt;This paper called &lt;a class=&#34;link&#34; href=&#34;https://raft.github.io/raft.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;In Search of an Understandable Consensus Algorithm(Extended Version)&lt;/a&gt; was published in 2014 by Stanford University. This paper is very in-depth, I recommend reading it several times.&lt;/p&gt;
@@ -3649,10 +3649,10 @@
         </item>
         <item>
         <title>Lab 1: MapReduce</title>
-        <link>http://localhost:59025/p/lab-1-mapreduce/</link>
+        <link>http://localhost:59770/p/lab-1-mapreduce/</link>
         <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/lab-1-mapreduce/</guid>
+        <guid>http://localhost:59770/p/lab-1-mapreduce/</guid>
         <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;In lab 1 we will build a MapReduce system. Two main parts are implemented, one is a worker process that calls &lt;code&gt;Map&lt;/code&gt; and &lt;code&gt;Reduce&lt;/code&gt; functions and handles reading and writing files, and the other is a coordinator process that hands out tasks to workers and copes with failed workers.&lt;/p&gt;
 &lt;p&gt;Before you start the lab, must be familiar with &lt;code&gt;Golang concurrency programming&lt;/code&gt; and &lt;code&gt;RPC&lt;/code&gt;. Understanding the MapReduce paper is also essential.&lt;/p&gt;
@@ -4016,10 +4016,10 @@
         </item>
         <item>
         <title>MapReduce Paper</title>
-        <link>http://localhost:59025/p/mapreduce-paper/</link>
+        <link>http://localhost:59770/p/mapreduce-paper/</link>
         <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/mapreduce-paper/</guid>
+        <guid>http://localhost:59770/p/mapreduce-paper/</guid>
         <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;MapReduce is a programming model mentioned by Google. It runs on a distributed system (like a cluster of commodity machines) and is highly scalable. In addition to the system, there is parallel computing of large-scale data sets.&lt;/p&gt;
 &lt;p&gt;This paper called &lt;a class=&#34;link&#34; href=&#34;https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -4070,10 +4070,10 @@
 &lt;/div&gt;&lt;h2 id=&#34;implementation&#34;&gt;Implementation
 &lt;/h2&gt;&lt;p&gt;The issue of how to make distributed system may face many difficulties, such as parallelising the computation, distributing the data, and handling failures. Using the MapReduce model we can simplify it and implement it in a variety of ways.&lt;/p&gt;
 &lt;h3 id=&#34;execution-overview&#34;&gt;Execution Overview
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:59025/p/mapreduce-paper/3f37c1e8-8ec3-473a-93c4-e4424a06865d.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:59770/p/mapreduce-paper/3f37c1e8-8ec3-473a-93c4-e4424a06865d.png&#34;
 	width=&#34;1386&#34;
 	height=&#34;766&#34;
-	srcset=&#34;http://localhost:59025/p/mapreduce-paper/3f37c1e8-8ec3-473a-93c4-e4424a06865d_hu_18b54cdd00b7389b.png 480w, http://localhost:59025/p/mapreduce-paper/3f37c1e8-8ec3-473a-93c4-e4424a06865d_hu_49e39995847f781c.png 1024w&#34;
+	srcset=&#34;http://localhost:59770/p/mapreduce-paper/3f37c1e8-8ec3-473a-93c4-e4424a06865d_hu_18b54cdd00b7389b.png 480w, http://localhost:59770/p/mapreduce-paper/3f37c1e8-8ec3-473a-93c4-e4424a06865d_hu_49e39995847f781c.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;MapReduce&#34;

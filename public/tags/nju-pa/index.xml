@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>NJU-PA on GreyWind</title>
-        <link>http://localhost:59025/tags/nju-pa/</link>
+        <link>http://localhost:59770/tags/nju-pa/</link>
         <description>Recent content in NJU-PA on GreyWind</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>GreyWind</copyright>
-        <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:59025/tags/nju-pa/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:59770/tags/nju-pa/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>PA 1: simple computer</title>
-        <link>http://localhost:59025/p/pa-1-simple-computer/</link>
+        <link>http://localhost:59770/p/pa-1-simple-computer/</link>
         <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/pa-1-simple-computer/</guid>
+        <guid>http://localhost:59770/p/pa-1-simple-computer/</guid>
         <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;In lab 1, we will implement a simple debugger. There are three main tasks.&lt;/p&gt;
 &lt;p&gt;Task 1, Implement single-step execution, Print register status, Scan memory.&lt;/p&gt;

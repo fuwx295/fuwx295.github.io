@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Bpf on GreyWind</title>
-        <link>http://localhost:59025/tags/bpf/</link>
+        <link>http://localhost:59770/tags/bpf/</link>
         <description>Recent content in Bpf on GreyWind</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>GreyWind</copyright>
-        <lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:59025/tags/bpf/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:59770/tags/bpf/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>The BSD Packet Filter (BPF) Paper</title>
-        <link>http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/</link>
+        <link>http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/</link>
         <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/</guid>
+        <guid>http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/</guid>
         <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.tcpdump.org/papers/bpf-usenix93.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;The BSD Packet Filter: A New Architecture for User-level Packet Capture&lt;/a&gt; Paper is published by UCB in Winter USENIX 1992.&lt;/p&gt;
 &lt;p&gt;The BPF as known as BSD Packet Filter. It provides a raw interface to data link layers, permitting raw link-layer packets to be send and received, and allow a &lt;code&gt;user-space&lt;/code&gt; process to supply a filter program that specifies which packets it wants to receive. For example &lt;code&gt;TCPDUMP&lt;/code&gt;, which directly filters incoming packets in the kernel based on &lt;code&gt;user-space&lt;/code&gt; rules.&lt;/p&gt;
 &lt;h2 id=&#34;architecture&#34;&gt;Architecture
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_overview.png&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_overview.png&#34;
 	width=&#34;787&#34;
 	height=&#34;687&#34;
-	srcset=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_overview_hu_ea13228318372a7e.png 480w, http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_overview_hu_393922de5ef4c41a.png 1024w&#34;
+	srcset=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_overview_hu_ea13228318372a7e.png 480w, http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_overview_hu_393922de5ef4c41a.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;bpf_overview&#34;
@@ -54,10 +54,10 @@
 &lt;/ol&gt;
 &lt;h2 id=&#34;performance&#34;&gt;Performance
 &lt;/h2&gt;&lt;p&gt;The performance of BPF and NIT (another packet filter) is compared for two extreme cases, in which all packets are received and all packets are rejected.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_exp1.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_exp1.png&#34;
 	width=&#34;930&#34;
 	height=&#34;651&#34;
-	srcset=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_exp1_hu_f177383e8e544ddb.png 480w, http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_exp1_hu_bb8b31f0d5b00673.png 1024w&#34;
+	srcset=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_exp1_hu_f177383e8e544ddb.png 480w, http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_exp1_hu_bb8b31f0d5b00673.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;bpf_exp1&#34;
@@ -68,10 +68,10 @@
 		data-flex-basis=&#34;342px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_exp2.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_exp2.png&#34;
 	width=&#34;909&#34;
 	height=&#34;648&#34;
-	srcset=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_exp2_hu_bae2ffa0af43052b.png 480w, http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_exp2_hu_1a141d2a1e78c210.png 1024w&#34;
+	srcset=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_exp2_hu_bae2ffa0af43052b.png 480w, http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_exp2_hu_1a141d2a1e78c210.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;bpf_exp2&#34;
@@ -96,10 +96,10 @@
 &lt;p&gt;In network monitoring, more information is generally discarded than is needed, so the BPF performance advantage is huge.&lt;/p&gt;
 &lt;h2 id=&#34;why-bpf-faster&#34;&gt;Why BPF faster?
 &lt;/h2&gt;&lt;p&gt;A filter is like an assertion, either true or false, about whether the package is needed filter.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_tree.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_tree.png&#34;
 	width=&#34;738&#34;
 	height=&#34;280&#34;
-	srcset=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_tree_hu_51913544bd75093b.png 480w, http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_tree_hu_954cea58089509ae.png 1024w&#34;
+	srcset=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_tree_hu_51913544bd75093b.png 480w, http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_tree_hu_954cea58089509ae.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;bpf_tree&#34;
@@ -121,10 +121,10 @@
 &lt;p&gt;Secondly, the reception is also to &lt;strong&gt;receive a whole packet, without considering that there will be a lot of unwanted data&lt;/strong&gt;, which is obviously less efficient than BPF.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_cfg.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_cfg.png&#34;
 	width=&#34;424&#34;
 	height=&#34;438&#34;
-	srcset=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_cfg_hu_19d822c3b947193e.png 480w, http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_cfg_hu_57ec0f535e9246c4.png 1024w&#34;
+	srcset=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_cfg_hu_19d822c3b947193e.png 480w, http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_cfg_hu_57ec0f535e9246c4.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;bpf_cfg&#34;
@@ -137,10 +137,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;BPF uses a CFG (Control Flow Graph), which is a DAG (Directed Acyclic Graph).The left branch indicates that the node is false and the right branch indicates that the node is true. &lt;strong&gt;this structure makes more use of registers, which is also a reason for being faster.&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;bpf-vm&#34;&gt;BPF VM
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_op.png&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_op.png&#34;
 	width=&#34;235&#34;
 	height=&#34;83&#34;
-	srcset=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_op_hu_62f35737b5c5207d.png 480w, http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_op_hu_6d4775b6b389858c.png 1024w&#34;
+	srcset=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_op_hu_62f35737b5c5207d.png 480w, http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_op_hu_6d4775b6b389858c.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;bpf_op&#34;
@@ -151,10 +151,10 @@
 		data-flex-basis=&#34;679px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_instruct.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_instruct.png&#34;
 	width=&#34;409&#34;
 	height=&#34;558&#34;
-	srcset=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_instruct_hu_1a864be5ed373bf4.png 480w, http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_instruct_hu_68b9b0f586874769.png 1024w&#34;
+	srcset=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_instruct_hu_1a864be5ed373bf4.png 480w, http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_instruct_hu_68b9b0f586874769.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;bpf_instruct&#34;
@@ -165,10 +165,10 @@
 		data-flex-basis=&#34;175px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_address.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_address.png&#34;
 	width=&#34;452&#34;
 	height=&#34;386&#34;
-	srcset=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_address_hu_f7dc99655b9bfd44.png 480w, http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_address_hu_ffa66c333a0fd333.png 1024w&#34;
+	srcset=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_address_hu_f7dc99655b9bfd44.png 480w, http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_address_hu_ffa66c333a0fd333.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;bpf_addressing_modes&#34;
@@ -182,10 +182,10 @@
 &lt;p&gt;In order to realize the above functions, BPF has &lt;strong&gt;designed a virtual machine in the kernel&lt;/strong&gt;, which uses mostly binary, single-address arithmetic.&lt;/p&gt;
 &lt;p&gt;It also defines a series of 32-bit arithmetic instructions as follows, but they are implemented as macros, and in the paper they are in assembly form for ease of reading.&lt;/p&gt;
 &lt;p&gt;Notice that a lot of the addressing operations are relative to packages, since this virtual machine is used to analyze packages.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_cmd.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_cmd.png&#34;
 	width=&#34;191&#34;
 	height=&#34;160&#34;
-	srcset=&#34;http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_cmd_hu_43a3c8d98cae500b.png 480w, http://localhost:59025/p/the-bsd-packet-filter-bpf-paper/bpf_cmd_hu_29c5db2b9da4970.png 1024w&#34;
+	srcset=&#34;http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_cmd_hu_43a3c8d98cae500b.png 480w, http://localhost:59770/p/the-bsd-packet-filter-bpf-paper/bpf_cmd_hu_29c5db2b9da4970.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;bpf_cmd&#34;
