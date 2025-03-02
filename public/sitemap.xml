@@ -11,16 +11,37 @@
     <loc>http://localhost:1313/page/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/p/lab-4-sharded-key/value-service/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mit-6.824/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/lab-3-fault-tolerant-key/value-service/</loc>
+    <lastmod>2023-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/lab-2-raft/</loc>
+    <lastmod>2023-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/raft-paper/</loc>
+    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/lab-1-mapreduce/</loc>
+    <lastmod>2023-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/mapreduce-paper/</loc>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/ielts/</loc>
     <lastmod>2023-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/p/necessary-skills-of-ielts-reading/</loc>
-    <lastmod>2023-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2023-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/p/necessary-skills-of-ielts-listening/</loc>
