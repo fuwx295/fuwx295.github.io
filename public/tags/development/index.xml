@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Development on GreyWind</title>
-        <link>http://localhost:1313/tags/development/</link>
+        <link>http://localhost:59025/tags/development/</link>
         <description>Recent content in Development on GreyWind</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>GreyWind</copyright>
-        <lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/development/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:59025/tags/development/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Development Environment (Utlra)</title>
-        <link>http://localhost:1313/p/development-environment-utlra/</link>
+        <link>http://localhost:59025/p/development-environment-utlra/</link>
         <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/development-environment-utlra/</guid>
-        <description>&lt;img src="http://localhost:1313/p/development-environment-utlra/dev.webp" alt="Featured image of post Development Environment (Utlra)" /&gt;&lt;h2 id=&#34;font&#34;&gt;Font
+        <guid>http://localhost:59025/p/development-environment-utlra/</guid>
+        <description>&lt;img src="http://localhost:59025/p/development-environment-utlra/dev.webp" alt="Featured image of post Development Environment (Utlra)" /&gt;&lt;h2 id=&#34;font&#34;&gt;Font
 &lt;/h2&gt;&lt;h3 id=&#34;fira-code&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/tonsky/FiraCode&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;fira code&lt;/a&gt;
 &lt;/h3&gt;&lt;p&gt;free monospaced font with programming ligatures&lt;/p&gt;
@@ -178,11 +178,11 @@ With over 1 million users, Lens is the most popular &lt;strong&gt;Kubernetes IDE
         </item>
         <item>
         <title>Development Environment (Basic)</title>
-        <link>http://localhost:1313/p/development-environment-basic/</link>
+        <link>http://localhost:59025/p/development-environment-basic/</link>
         <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/development-environment-basic/</guid>
-        <description>&lt;img src="http://localhost:1313/p/development-environment-basic/dev.webp" alt="Featured image of post Development Environment (Basic)" /&gt;&lt;p&gt;&lt;strong&gt;Support Platform: Ubuntu 22.04 &amp;amp; Mac Sonoma 14&lt;/strong&gt;&lt;/p&gt;
+        <guid>http://localhost:59025/p/development-environment-basic/</guid>
+        <description>&lt;img src="http://localhost:59025/p/development-environment-basic/dev.webp" alt="Featured image of post Development Environment (Basic)" /&gt;&lt;p&gt;&lt;strong&gt;Support Platform: Ubuntu 22.04 &amp;amp; Mac Sonoma 14&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Give the system description only on that platform, otherwise both are possible&lt;/li&gt;
 &lt;/ul&gt;

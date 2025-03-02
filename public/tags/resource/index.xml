@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Resource on GreyWind</title>
-        <link>http://localhost:1313/tags/resource/</link>
+        <link>http://localhost:59025/tags/resource/</link>
         <description>Recent content in Resource on GreyWind</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>GreyWind</copyright>
-        <lastBuildDate>Fri, 03 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/resource/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 03 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:59025/tags/resource/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Good Resource of Cloud Native</title>
-        <link>http://localhost:1313/p/good-resource-of-cloud-native/</link>
+        <link>http://localhost:59025/p/good-resource-of-cloud-native/</link>
         <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/good-resource-of-cloud-native/</guid>
-        <description>&lt;img src="http://localhost:1313/p/good-resource-of-cloud-native/cloud-native.webp" alt="Featured image of post Good Resource of Cloud Native" /&gt;&lt;h2 id=&#34;devops&#34;&gt;DevOps
+        <guid>http://localhost:59025/p/good-resource-of-cloud-native/</guid>
+        <description>&lt;img src="http://localhost:59025/p/good-resource-of-cloud-native/cloud-native.webp" alt="Featured image of post Good Resource of Cloud Native" /&gt;&lt;h2 id=&#34;devops&#34;&gt;DevOps
 &lt;/h2&gt;&lt;h3 id=&#34;docker&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.docker.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Docker&lt;/a&gt;
 &lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/orbstack/orbstack&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;

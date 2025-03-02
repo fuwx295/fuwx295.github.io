@@ -18,7 +18,9 @@ Working on Observability.
 
 Interested in new technologies such as [ebpf](https://ebpf.io/), [webassembly](https://webassembly.org/), llm, etc.
 
-Whether you want to discuss technology, ask questions, make friends or just chat, please contact me. :-)
+Whether you want to discuss technology, ask questions, make friends or just chat, please contact me via the email on the left :-)
+
+You can also leave a message in the comment section below.
 
 ## Hobbies
 

@@ -84,7 +84,7 @@ params:
 
     comments:
         enabled: true
-        provider: disqus
+        provider: waline
 
         disqusjs:
             shortname:
@@ -119,18 +119,20 @@ params:
 
         # Waline client configuration see: https://waline.js.org/en/reference/component.html
         waline:
-            serverURL:
-            lang:
-            pageview:
+            serverURL: https://waline-bf8i7icb8-fuwx295s-projects.vercel.app/
+            lang: zh-CN
+            pageview: true
             emoji:
-                - https://unpkg.com/@waline/emojis@1.0.1/weibo
+                - https://npm.elemecdn.com/@waline/emojis@1.1.0/bilibili
+                - https://npm.elemecdn.com/@waline/emojis@1.1.0/bmoji
+                - https://npm.elemecdn.com/@waline/emojis@1.1.0/weibo
             requiredMeta:
                 - name
                 - email
                 - url
             locale:
                 admin: Admin
-                placeholder:
+                placeholder: 欢迎留下宝贵的评论!
 
         twikoo:
             envId:
@@ -218,14 +220,23 @@ menu:
         - identifier: github
           name: GitHub
           url: https://github.com/fuwx295
+          weight: 1
           params:
-              icon: brand-github
+              icon: github
 
         - identifier: X
           name: X
           url: https://x.com/GreyWind2077
+          weight: 2
           params:
-              icon: brand-twitter
+              icon: x
+        
+        - identifier: email
+          name: Email
+          url: mailto:f2928560492@gmail.com
+          weight: 3
+          params:
+              icon: email
 
 related:
     includeNewer: true
