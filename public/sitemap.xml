@@ -11,17 +11,53 @@
     <loc>http://localhost:1313/page/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/bpf/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/the-bsd-packet-filter-bpf-paper/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/development/</loc>
+    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/development-environment-utlra/</loc>
+    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ops/</loc>
+    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/quickly-locate-program-memory-leaks/</loc>
+    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cloud-native/</loc>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/development-environment-basic/</loc>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/good-resource-of-cloud-native/</loc>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/resource/</loc>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/p/lab-4-sharded-key/value-service/</loc>
     <lastmod>2023-10-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/mit-6.824/</loc>
     <lastmod>2023-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/nju-pa/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/p/pa-1-simple-computer/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/p/lab-3-fault-tolerant-key/value-service/</loc>
     <lastmod>2023-09-30T00:00:00+00:00</lastmod>
