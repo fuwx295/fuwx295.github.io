@@ -3,6 +3,7 @@ title: About
 description: Who am I?
 date: '2025-02-23'
 lastmod: '2025-02-23'
+image: vertin.jpg
 menu:
     main: 
         weight: -90
