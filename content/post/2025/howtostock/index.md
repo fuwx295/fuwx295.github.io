@@ -6,6 +6,7 @@ tags = [
   'stock'
 ]
 title = 'HowtoStock'
+image = "background.png"
 +++
 
 ## 如何炒美股和港股：从零开始的海外投资指南
