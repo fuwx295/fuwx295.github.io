@@ -3,6 +3,9 @@ author = "GreyWind"
 title = "MapReduce Paper"
 date = "2023-08-13"
 description = "MapReduce Paper"
+categories = [
+    "Paper"
+]
 tags = [
     "MIT-6.824",
 ]

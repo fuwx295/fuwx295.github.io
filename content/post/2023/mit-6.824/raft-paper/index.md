@@ -3,6 +3,9 @@ author = "GreyWind"
 title = "Raft Paper"
 date = "2023-08-31"
 description = "Raft Paper"
+categories = [
+    "Paper"
+]
 tags = [
     "MIT-6.824",
 ]

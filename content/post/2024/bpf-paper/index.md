@@ -3,6 +3,9 @@ author = "GreyWind"
 title = "The BSD Packet Filter (BPF) Paper"
 date = "2024-09-17"
 description = "The BSD Packet Filter (BPF) Paper"
+categories = [
+    "Paper",
+]
 tags = [
     "bpf",
 ]
