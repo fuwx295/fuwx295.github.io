@@ -75,6 +75,8 @@ Electronic potted plant game, only 5 minutes a day
 
 ### Music
 
+{{< music auto="https://music.163.com/#/my/m/music/playlist?id=983966331" >}}
+
 [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ)
 
 [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP)
