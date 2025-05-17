@@ -73,7 +73,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/vertin.jpg
 
     article:
         math: false
@@ -238,6 +238,13 @@ menu:
           weight: 3
           params:
               icon: email
+        
+        - identifier: steam
+          name: Steam
+          url: https://steamcommunity.com/profiles/76561199046586037/
+          weight: 4
+          params:
+              icon: steam
 
 related:
     includeNewer: true
