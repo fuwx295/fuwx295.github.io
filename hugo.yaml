@@ -121,7 +121,7 @@ params:
         # Waline client configuration see: https://waline.js.org/en/reference/component.html
         waline:
             serverURL: https://waline-drab-three.vercel.app/
-            lang: zh-CN
+            lang: en-US
             pageview: true
             emoji:
                 - https://npm.elemecdn.com/@waline/emojis@1.1.0/bilibili
@@ -133,7 +133,7 @@ params:
                 - url
             locale:
                 admin: Admin
-                placeholder: 欢迎留下宝贵的评论!
+                placeholder: Welcome. My Friends!
 
         twikoo:
             envId:
