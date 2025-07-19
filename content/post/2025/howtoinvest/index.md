@@ -2,6 +2,7 @@
 author = "GreyWind"
 description = "How to Invest"
 date = '2025-03-16T12:22:02+08:00'
+modified = '2025-07-19T11:03:02+08:00'
 tags = [
   'stock'
 ]
@@ -9,114 +10,115 @@ title = 'How to Invest'
 image = "background.png"
 +++
 
-## 从零开始的海外投资指南
+## A Beginner's Guide to Overseas Investing
 
-相较于A股，美股和港股凭借成熟的市场机制和丰富的投资机会，是普通投资者实现财富增值的最好选择。
+Compared to A-shares, U.S. and Hong Kong stocks offer mature market mechanisms and diverse investment opportunities, making them the best choices for ordinary investors seeking wealth growth.
 
-更值得一提的是，作为中国大陆居民，根据WTO协议，股息只收10%的税。而港澳台居民则高达30%的税。
+Notably, for mainland Chinese residents, dividends are taxed at only 10% under WTO agreements, while Hong Kong, Macau, and Taiwan residents face a steep 30% tax. In the U.S., short-term capital gains tax can reach up to 37%, and even long-term investments held over a year may be taxed at 20%. This means U.S. residents may lose nearly half their profits to the IRS. For mainland Chinese residents, this represents a significant advantage.
 
-而在美国，短线交易的资本利得税最高可达37%，即使是持有超过一年的长线投资，税率也可能高达20%。这意味着，美国居民看似赚了不少，但实际上近一半利润可能要交给税务局（IRS）。对于大陆居民来说，这无疑是一个巨大的优势。
+## Account Opening Requirements
 
-## 开户条件
+To trade U.S. and Hong Kong stocks, the first step is preparing the necessary accounts and tools. Below are the specific requirements and steps:
 
-想要炒美股和港股，第一步是准备好必要的账户和工具。以下是具体要求和操作指南：
+### Overseas Bank Account
 
-### 境外银行卡
+Investing in overseas securities (e.g., U.S. or Hong Kong stocks) requires an overseas bank account for deposits, trading, and withdrawals.
 
-投资海外证券（如美股、港股），需要一个境外银行账户用于入金、交易和提取资金。
+Additionally, Hong Kong banks offer **fixed deposit interest rates** of 3.5% to 4%, which is also a viable investment option.
 
-同时香港银行的**定期存款利率**高达3.5%~4%， 同样也是一种投资。
-
-对于中国大陆居民来说，香港银行卡是最便捷的选择。
-
-香港作为国际金融中心，跨境支付系统高效，支持外币交易，是充值券商账户、接收股息或提现的理想工具。
+For mainland Chinese residents, a Hong Kong bank account is the most convenient choice. As an international financial hub, Hong Kong has an efficient cross-border payment system, supports foreign currency transactions, and is ideal for funding brokerage accounts, receiving dividends, or withdrawing funds.
 
 <img src="bank.PNG" style="display: block; margin: 0 auto; width: 30%;" alt="bankcard">
 
-#### 如何办理香港银行卡？
+#### How to Open a Hong Kong Bank Account?
 
-推荐办理`中银香港`或`汇丰香港`银行卡。以下是两种银行卡的特点和办理流程：
+Recommended options include `Bank of China (Hong Kong)` or `HSBC Hong Kong`. Below are their features and application processes:
 
-##### 中银香港银行卡
+##### Bank of China (Hong Kong) Account
 
-- **优势**：从内地中国银行转账至中银香港免手续费，省下一笔开支。
-- **办理要求**：以投资为目的开户审核较严格，需准备以下材料，否则可能被拒：
-  1. **身份证明**：身份证、港澳通行证、通关小票。
-  2. **地址证明**（近三个月）：水电费账单或信用卡账单。
-  3. **收入证明**：个税APP截图或近三个月工资流水。
-  4. **投资证明**：A股账户证明及近三个月交易流水。
+- **Advantages**: Free transfers from mainland Bank of China to Bank of China (Hong Kong), saving on fees.
+- **Requirements**: Strict review for investment-purpose accounts. Prepare the following, or you may be rejected:
+  1. **Identification**: ID card, Hong Kong/Macau pass, entry/exit slip.
+  2. **Proof of Address** (last three months): Utility bill or credit card statement.
+  3. **Proof of Income**: Tax app screenshot or three months of salary records.
+  4. **Investment Proof**: A-share account proof and three months of trading records.
 
-##### 汇丰香港银行卡
+##### HSBC Hong Kong Account
 
-- **优势**：开户门槛较低，适合新手。
-- **缺点**：需搭配内地兴业银行“寰宇人生”借记卡，购汇有优惠，每年可享受30笔免手续费跨境汇款。
-- **办理要求**：仅需身份证、港澳通行证和通关小票即可。
+- **Advantages**: Lower entry barriers, suitable for beginners.
+- **Disadvantages**: Requires pairing with a mainland CIB "Global Life" debit card for discounted foreign exchange and up to 30 fee-free cross-border transfers annually.
+- **Requirements**: Only ID card, Hong Kong/Macau pass, and entry/exit slip are needed.
 
-#### 办理步骤
+#### Application Steps
 
-1. **预约开户（可选）**  
-   建议提前在银行官网预约，避免现场排队耗时。
-2. **准备材料**  
-   根据所选银行要求，提前备齐证明文件。
-3. **前往香港办理**  
-   携带材料到柜台完成开户，通常当天即可拿到银行卡。
+1. **Book an Appointment (Optional)**  
+   Schedule an appointment on the bank’s website to avoid long wait times.
+2. **Prepare Documents**  
+   Gather required documents based on the chosen bank’s requirements.
+3. **Visit Hong Kong to Open Account**  
+   Bring documents to the bank counter; you can usually receive the card on the same day.
 
-#### 注意事项
+#### Notes
 
-- **外汇管制**：中国大陆居民每年有5万美元的外汇兑换额度，需合理规划资金。
-- **汇率选择**：关注汇率走势，在汇率有利时兑换美元（炒美股）或港币（炒港股），尽量一次性换汇，避免频繁操作增加成本。
+- **Foreign Exchange Restrictions**: Mainland Chinese residents have an annual foreign exchange quota of USD 50,000, so plan funds carefully.
+- **Exchange Rate Strategy**: Monitor exchange rate trends and convert to USD (for U.S. stocks) or HKD (for Hong Kong stocks) when rates are favorable. Convert in bulk to avoid frequent transactions and extra costs.
 
-### 一台苹果设备（非必须）
+### An Apple Device (Optional)
 
-虽然不是必需品，但苹果设备可以让操作更方便，尤其是在下载海外券商软件时：
+While not mandatory, an Apple device can simplify operations, especially for downloading overseas brokerage apps:
 
-- **美区账号**  
-  国内App Store无法下载部分境外券商软件，需注册一个美区Apple ID（建议选择免税州，如阿拉斯加州）。注册后即可下载所需应用。
+- **U.S. Apple ID**  
+   Some overseas brokerage apps are unavailable in the mainland App Store. Register a U.S. Apple ID (preferably in a tax-free state like Alaska) to download required apps.
 - **Apple Pay**  
-  可绑定香港银行卡，统一管理资金。许多电商平台（如美团、京东，但阿里系暂不支持）也接受Apple Pay支付，方便日常消费。
+   Link your Hong Kong bank account for centralized fund management. Many e-commerce platforms (e.g., Meituan, JD, but not Alibaba) accept Apple Pay, making daily spending convenient.
 
 <img src="apple-pay.png" style="display: block; margin: 0 auto; width: 30%;" alt="bankcard">
 
-## 券商推荐
+## Brokerage Recommendations
 
-选择一家合适的境外券商是投资的关键。开户前建议对比最新优惠活动（如免佣金或赠股）。
-> 由于政策限制，部分券商要求中国大陆居民提供存量证明（即已有境外证劵公司开户证明），新手往往难以满足这类条件。
+Choosing a suitable overseas brokerage is critical. Compare the latest promotions (e.g., commission-free trading or free stocks) before opening an account.
+
+> Due to regulatory restrictions, some brokerages require mainland Chinese residents to provide proof of existing overseas securities accounts, which beginners often cannot meet.
 >
-> 切勿伪造证明——在香港这是违法行为，可能触犯刑法！
+> Never forge proof—it’s illegal in Hong Kong and may violate criminal law!
 
-以下是我使用且无需存量证明的券商推荐：
+Below are brokerages I’ve used that don’t require proof of existing accounts:
 
-<img src="stock.PNG" style="display: block; margin: 0 auto; width: 30%;" alt="bankcard">
+<img src="stock.jpg" style="display: block; margin: 0 auto; width: 30%;" alt="bankcard">
 
-- **美股券商**：  
-  [盈透证券](https://www.interactivebrokers.com/)  
-  功能强大，适合有一定经验的投资者。
-- **港股券商**：  
-  [盈立证券](https://www.usmart.hk/zh-hk)  
-  操作简单，适合新手入门。
+- **U.S. Stock Brokerage**:  
+  [InteractiveBrokers](https://www.interactivebrokers.com/)  
+  Feature-rich, ideal for experienced investors.
+- **Hong Kong Stock Brokerage**:  
+  [uSmart](https://www.usmart.hk/zh-hk)  
+  User-friendly, perfect for beginners.
 
-## 如何在中国大陆使用香港银行卡
+- **Market News Platform**:  
+  [Ainvest](https://www.ainvest.com/)  
+  Can be linked to an InteractiveBrokers account, offers a user-friendly interface and various news updates, and doubles as a great platform for learning English.
 
-拿到香港银行卡后，如何在内地消费或管理资金？以下是几种实用方法：
+## Using a Hong Kong Bank Account in Mainland China
 
-- **线上消费**  
-  香港银行卡通常支持Visa或Mastercard，可绑定支付宝、微信支付。但需留意汇率波动和跨境手续费。
-- **线下消费**  
-  中银香港和汇丰香港的银行卡支持银联，可直接在内地POS机刷卡消费。
-- **ATM取现**  
-  在带有银联标志的ATM机上可取现金，但每次收取10-20港币手续费，建议尽量减少取现频率。
-- **转账回内地**  
-  从香港账户转账至内地受外汇管制，年度额度为5万美元（与兑换外汇共享额度）。
+After obtaining a Hong Kong bank account, how can you use it for spending or fund management in mainland China? Here are practical methods:
+
+- **Online Spending**  
+   Hong Kong bank cards typically support Visa or Mastercard and can be linked to Alipay or WeChat Pay. Be mindful of exchange rate fluctuations and cross-border fees.
+- **In-Person Spending**  
+   Bank of China (Hong Kong) and HSBC Hong Kong cards support UnionPay, allowing direct POS transactions in mainland China.
+- **ATM Withdrawals**  
+   Cash can be withdrawn at UnionPay ATMs, but a HKD 10-20 fee applies per transaction. Minimize withdrawals to reduce costs.
+- **Transfers to Mainland China**  
+   Transfers from Hong Kong to mainland accounts are subject to the USD 50,000 annual foreign exchange quota (shared with currency conversion).
 - **Apple Pay**  
-  绑定香港银行卡后，可在支持Apple Pay的电商平台消费，支付时注意汇率即可。
+   Link your Hong Kong bank card to Apple Pay for use on supported e-commerce platforms, keeping an eye on exchange rates during payments.
 
-## 风险提示
+## Risk Warnings
 
-炒股是一项高风险投资，尤其在美股和港股市场，波动性更大。以下是几点建议和提醒：
+Stock trading is a high-risk investment, especially in the volatile U.S. and Hong Kong markets. Here are some tips and reminders:
 
-- **市场风险**：美股受美国经济和政策影响，港股则受内地和香港局势双重牵制，可能出现剧烈波动。
-- **知识储备**：不要盲目跟风，建议学习股票基本面和技术面分析，谨慎选股。
-- **资金管理**：只用闲钱投资，避免借贷炒股或孤注一掷。
-- **心理准备**：股市有赚有亏，保持理性，避免被情绪左右。
+- **Market Risks**: U.S. stocks are influenced by U.S. economic and policy changes, while Hong Kong stocks are affected by both mainland and Hong Kong dynamics, leading to potential sharp fluctuations.
+- **Knowledge Preparation**: Avoid blindly following trends. Learn fundamental and technical analysis and choose stocks cautiously.
+- **Fund Management**: Invest only spare funds, avoiding loans or all-in bets.
+- **Mental Preparedness**: The stock market involves gains and losses. Stay rational and avoid emotional decisions.
 
-> **免责声明**：本文仅为信息分享，不构成投资建议。股市有风险，入市需谨慎。
+> **Disclaimer**: This article is for informational purposes only and does not constitute investment advice. The stock market carries risks; invest with caution.
