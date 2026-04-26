@@ -6,7 +6,7 @@ description = "Necessary skills of IELTS (READING)"
 tags = [
     "IELTS",
 ]
-image="382f0a22-149c-4983-8de0-6495bea6fc88.jpeg"
+image="382f0a22-149c-4983-8de0-6495bea6fc88.webp"
 +++
 ## Introduction
 
