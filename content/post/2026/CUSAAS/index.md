@@ -272,30 +272,30 @@ That is what investors are willing to revalue.
 
 ## References
 
-[^1]: Datadog, “Datadog Announces First Quarter 2026 Financial Results”, May 7, 2026. https://investors.datadoghq.com/news-releases/news-release-details/datadog-announces-first-quarter-2026-financial-results
+[^1]: Datadog, [“Datadog Announces First Quarter 2026 Financial Results”, May 7, 2026.](https://investors.datadoghq.com/news-releases/news-release-details/datadog-announces-first-quarter-2026-financial-results)
 
-[^2]: Reuters, “Datadog raises annual forecast on strong cloud security demand, shares jump 36%”, May 7, 2026. https://www.reuters.com/technology/datadog-raises-annual-forecast-strong-cloud-security-demand-shares-up-29-2026-05-07/
+[^2]: Reuters, [“Datadog raises annual forecast on strong cloud security demand, shares jump 36%”, May 7, 2026.](https://www.reuters.com/technology/datadog-raises-annual-forecast-strong-cloud-security-demand-shares-up-29-2026-05-07/)
 
-[^3]: Datadog, “LLM Observability Metrics” and “LLM Observability”. https://docs.datadoghq.com/llm_observability/monitoring/metrics/ ; https://www.datadoghq.com/product/ai/llm-observability/
+[^3]: Datadog, [“LLM Observability Metrics”](https://docs.datadoghq.com/llm_observability/monitoring/metrics/) and [“LLM Observability”](https://www.datadoghq.com/product/ai/llm-observability/)).
 
-[^4]: Datadog, “MCP Server”. https://www.datadoghq.com/product/ai/mcp-server/ ; https://docs.datadoghq.com/bits_ai/mcp_server/
+[^4]: Datadog, [“MCP Server”](https://www.datadoghq.com/product/ai/mcp-server/).
 
-[^5]: Dynatrace, “Dynatrace Reports Fourth Quarter and Full Year Fiscal 2026 Financial Results”, May 14, 2026. https://ir.dynatrace.com/news-events/press-releases/detail/425/dynatrace-reports-fourth-quarter-and-full-year-fiscal-2026-financial-results
+[^5]: Dynatrace, [“Dynatrace Reports Fourth Quarter and Full Year Fiscal 2026 Financial Results”, May 14, 2026.](https://ir.dynatrace.com/news-events/press-releases/detail/425/dynatrace-reports-fourth-quarter-and-full-year-fiscal-2026-financial-results)
 
-[^6]: Barron’s, “Dynatrace Stock Falls on Earnings Beat. Why the CEO Thinks the Market Got It Wrong.” https://www.barrons.com/articles/dynatrace-earnings-stock-price-da8f29e9
+[^6]: Barron’s, [“Dynatrace Stock Falls on Earnings Beat. Why the CEO Thinks the Market Got It Wrong.”](https://www.barrons.com/articles/dynatrace-earnings-stock-price-da8f29e9)
 
-[^7]: Grand View Research, “U.S. Software As A Service Market Size & Outlook, 2030”. https://www.grandviewresearch.com/horizon/outlook/software-as-a-service-saas-market/united-states
+[^7]: Grand View Research, [“U.S. Software As A Service Market Size & Outlook, 2030”.](https://www.grandviewresearch.com/horizon/outlook/software-as-a-service-saas-market/united-states)
 
-[^8]: Grand View Research, “China Software As A Service Market Size & Outlook, 2030”. https://www.grandviewresearch.com/horizon/outlook/software-as-a-service-saas-market/china
+[^8]: Grand View Research, [“China Software As A Service Market Size & Outlook, 2030”.](https://www.grandviewresearch.com/horizon/outlook/software-as-a-service-saas-market/china)
 
-[^9]: China Academy of Information and Communications Technology, *China Enterprise SaaS Industry Development Research Report (2024)*. https://www.caict.ac.cn/kxyj/qwfb/ztbg/202408/P020240815374016912879.pdf
+[^9]: China Academy of Information and Communications Technology, [“China Enterprise SaaS Industry Development Research Report (2024)”](https://www.caict.ac.cn/kxyj/qwfb/ztbg/202408/P020240815374016912879.pdf).
 
-[^10]: AWS, “Global Infrastructure”. https://aws.amazon.com/about-aws/global-infrastructure/
+[^10]: AWS, [“Global Infrastructure”](https://aws.amazon.com/about-aws/global-infrastructure/).
 
-[^11]: Google Cloud, “Global Locations - Regions & Zones”. https://cloud.google.com/about/locations
+[^11]: Google Cloud, [“Global Locations - Regions & Zones”](https://cloud.google.com/about/locations).
 
-[^12]: China Academy of Information and Communications Technology, *Analysis Report on China’s Third-Party Data Center Operators*, 2022. https://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/P020220408530633654580.pdf
+[^12]: China Academy of Information and Communications Technology, [“Analysis Report on China’s Third-Party Data Center Operators”, 2022](https://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/P020220408530633654580.pdf).
 
-[^13]: Wallstreetcn, “Cloud revenue share is higher than Alibaba’s: Don’t forget China’s three major telecom operators in AI infrastructure”, February 25, 2025. https://wallstreetcn.com/articles/3741901
+[^13]: Wallstreetcn, [“Cloud revenue share is higher than Alibaba’s: Don’t forget China’s three major telecom operators in AI infrastructure”, February 25, 2025](https://wallstreetcn.com/articles/3741901).
 
-[^14]: Reuters, “AI deepens US tech divide as IBM, ServiceNow spark software selloff, TI lifts chipmakers”, April 23, 2026. https://www.reuters.com/business/us-software-stocks-slide-ibm-servicenow-results-reignite-ai-disruption-fears-2026-04-23/
+[^14]: Reuters, [“AI deepens US tech divide as IBM, ServiceNow spark software selloff, TI lifts chipmakers”, April 23, 2026](https://www.reuters.com/business/us-software-stocks-slide-ibm-servicenow-results-reignite-ai-disruption-fears-2026-04-23/).
