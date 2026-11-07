@@ -32,7 +32,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.141.0
+      HUGO_VERSION: 0.169.0
+      STACK_VERSION: 4.0.3
     steps:
       - name: Install Hugo CLI
         run: |
@@ -45,6 +46,14 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+      - name: Verify Hugo and Stack versions
+        run: |
+          hugo version
+          installed_hugo_version="$(hugo version | awk '{print $2}')"
+          [[ "$installed_hugo_version" == "v${HUGO_VERSION}"* ]]
+          installed_stack_version="$(git -C themes/hugo-theme-stack describe --tags --exact-match)"
+          test "$installed_stack_version" = "v${STACK_VERSION}"
+          printf 'Stack %s\n' "$installed_stack_version"
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
@@ -54,7 +63,7 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
-          TZ: America/Los_Angeles
+          TZ: Asia/Shanghai
         run: |
           hugo \
             --gc \

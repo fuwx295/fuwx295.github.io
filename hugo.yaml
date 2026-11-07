@@ -1,5 +1,5 @@
 baseurl: https://fuwx295.github.io/
-languageCode: en-us
+locale: en-US
 theme: hugo-theme-stack
 title: GreyWind
 copyright: GreyWind
@@ -14,7 +14,7 @@ hasCJKLanguage: false
 
 languages:
     en:
-        languageName: English
+        label: English
         title: GreyWind
         weight: 1
         params:
@@ -47,6 +47,9 @@ services:
 pagination:
     pagerSize: 7
 
+build:
+    noJSConfigInAssets: true
+
 permalinks:
     post: /p/:slug/
     page: /:slug/
@@ -54,10 +57,9 @@ permalinks:
 params:
     mainSections:
         - post
-    featuredImageField: image
     rssFullContent: true
-    favicon: /favicon.ico
-    # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+    favicon: favicon.ico
+    # Stack v4 resolves this path from assets/.
 
     footer:
         since: 2023
@@ -70,10 +72,7 @@ params:
     sidebar:
         emoji: 🍥
         subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        avatar:
-            enabled: true
-            local: true
-            src: img/vertin.jpg
+        avatar: img/vertin.jpg
 
     article:
         math: false
@@ -192,12 +191,6 @@ params:
             # Available values: summary, summary_large_image
             card: summary_large_image
 
-    defaultImage:
-        opengraph:
-            enabled: false
-            local: false
-            src:
-
     colorScheme:
         # Display toggle
         toggle: true
@@ -206,7 +199,7 @@ params:
         default: auto
 
     imageProcessing:
-        cover:
+        thumbnail:
             enabled: true
         content:
             enabled: true

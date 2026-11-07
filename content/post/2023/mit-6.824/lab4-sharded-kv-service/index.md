@@ -1,6 +1,7 @@
 +++
 author = "GreyWind"
 title = "Lab 4: Sharded Key/Value Service"
+url = "/p/lab-4-sharded-key/value-service/"
 date = "2023-10-07"
 description = "Lab 4: Sharded Key/Value Service"
 tags = [

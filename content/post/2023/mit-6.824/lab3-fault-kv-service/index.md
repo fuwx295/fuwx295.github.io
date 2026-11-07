@@ -1,6 +1,7 @@
 +++
 author = "GreyWind"
 title = "Lab 3: Fault-tolerant Key/Value Service"
+url = "/p/lab-3-fault-tolerant-key/value-service/"
 date = "2023-09-30"
 description = "Lab 3: Fault-tolerant Key/Value Service"
 tags = [
