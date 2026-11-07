@@ -193,6 +193,4 @@ And I'll look at the cables earlier. After all that troubleshooting, the fix was
 
 ---
 
-The structure of this post was inspired by [Chenwei Jiang's Microsoft Store and Clash Verge troubleshooting write-up](https://blog.cheverjohn.me/zh/troubleshoot-microsoft-store-with-clash-verge-on-windows).
-
 Command references: [Get-NetNeighbor](https://learn.microsoft.com/en-us/powershell/module/nettcpip/get-netneighbor), [Remove-NetNeighbor](https://learn.microsoft.com/en-us/powershell/module/nettcpip/remove-netneighbor), and [curl's command-line reference](https://curl.se/docs/manpage.html).
